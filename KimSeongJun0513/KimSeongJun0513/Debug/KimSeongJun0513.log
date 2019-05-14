@@ -1,0 +1,14 @@
+﻿  5월14일 연습문제.c
+c:\users\bit\documents\visual studio 2015\projects\kimseongjun0513\kimseongjun0513\5월14일 연습문제.c(152): warning C4133: '=': 'items *'과(와) '_itmes *' 사이의 형식이 호환되지 않습니다.
+c:\users\bit\documents\visual studio 2015\projects\kimseongjun0513\kimseongjun0513\5월14일 연습문제.c(153): warning C4133: '=': 'items *'과(와) '_itmes *' 사이의 형식이 호환되지 않습니다.
+c:\users\bit\documents\visual studio 2015\projects\kimseongjun0513\kimseongjun0513\5월14일 연습문제.c(160): warning C4133: '=': '_itmes *'과(와) 'items *' 사이의 형식이 호환되지 않습니다.
+c:\users\bit\documents\visual studio 2015\projects\kimseongjun0513\kimseongjun0513\5월14일 연습문제.c(164): warning C4133: '=': '_itmes *'과(와) 'items *' 사이의 형식이 호환되지 않습니다.
+c:\users\bit\documents\visual studio 2015\projects\kimseongjun0513\kimseongjun0513\5월14일 연습문제.c(173): warning C4133: '=': '_itmes *'과(와) 'items *' 사이의 형식이 호환되지 않습니다.
+c:\users\bit\documents\visual studio 2015\projects\kimseongjun0513\kimseongjun0513\5월14일 연습문제.c(193): warning C4133: '=': '_itmes *'과(와) 'items *' 사이의 형식이 호환되지 않습니다.
+c:\users\bit\documents\visual studio 2015\projects\kimseongjun0513\kimseongjun0513\5월14일 연습문제.c(213): warning C4133: '=': '_itmes *'과(와) 'items *' 사이의 형식이 호환되지 않습니다.
+c:\users\bit\documents\visual studio 2015\projects\kimseongjun0513\kimseongjun0513\5월14일 연습문제.c(222): warning C4133: '=': '_itmes *'과(와) 'items *' 사이의 형식이 호환되지 않습니다.
+c:\users\bit\documents\visual studio 2015\projects\kimseongjun0513\kimseongjun0513\5월14일 연습문제.c(241): warning C4133: '=': '_itmes *'과(와) 'items *' 사이의 형식이 호환되지 않습니다.
+c:\users\bit\documents\visual studio 2015\projects\kimseongjun0513\kimseongjun0513\5월14일 연습문제.c(245): warning C4133: '=': '_itmes *'과(와) 'items *' 사이의 형식이 호환되지 않습니다.
+c:\users\bit\documents\visual studio 2015\projects\kimseongjun0513\kimseongjun0513\5월14일 연습문제.c(301): warning C4133: '=': 'items *'과(와) '_itmes *' 사이의 형식이 호환되지 않습니다.
+  KimSeongJun0513.vcxproj -> C:\Users\BIT\documents\visual studio 2015\Projects\KimSeongJun0513\Debug\KimSeongJun0513.exe
+  KimSeongJun0513.vcxproj -> C:\Users\BIT\documents\visual studio 2015\Projects\KimSeongJun0513\Debug\KimSeongJun0513.pdb (Full PDB)
